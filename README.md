@@ -34,6 +34,9 @@ $ conda activate ETGEMs
 ```shell
 $ pip install -r requirements.txt
 ```
+```shell
+$ python -m ipykernel install --user --name ETGEMs --display-name "ETGEMs"
+```
   You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation. 
 
 ## Steps to reproduce the main analysis in the publication
