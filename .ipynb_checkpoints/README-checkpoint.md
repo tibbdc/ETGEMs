@@ -29,7 +29,7 @@ To create a stand-alone environment named ETGEMs with Python 3.5.5 and all the r
 $ conda create -n ETGEMs python=3.5.5
 ```
 ```shell
-$ conda activate ETGEMs
+$ source activate ETGEMs
 ```
 ```shell
 $ pip install -r requirements.txt
